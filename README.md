@@ -1,7 +1,7 @@
 
 # ImpactData
 
-:data:
+:computer:
 
 Repo for the Impact Challenge
 Here I am using data from the World Bank. The primary World Bank collection of development indicators, compiled from officially-recognized international sources. It presents the most current and accurate global development data available, and includes national, regional and global estimates. The topics covered are: Agriculture & Rural Development, Aid Effectiveness, Climate Change, Economy & Growth, Education, Energy & Mining, Environment, External Debt, Financial Sector, Gender, Health, Infrastructure, Labor & Social Protection, Poverty, Private Sector, Public Sector, Science & Technology, Social Development, Trade, Urban Development. From the economies of the countries of WLD, EAP, ECA, LAC, MNA, SAS, SSA, HIC, LMY, IBRD, IDA gathered from 1960 - 2015, a time series covering 217 economies
